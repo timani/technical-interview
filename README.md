@@ -21,10 +21,11 @@ Such as scripted maintenance and security Integrating Jenkins with other tools i
 **Table of Contents**
 
 - [Overview](#Overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Install](#install)
+- [Getting Started](#features)
+- [Authentication](#requirements)
+- [Configuration](#configuration)
+    - [Operating Systems](#emacs-version) 
+    - [Server Specifications](#emacs-version) 
+- [Tests](#install)
     - [Excellent ergonomics](#excellent-ergonomics)
     - [Convenient and Mnemonic Key Bindings](#convenient-and-mnemonic-key-bindings) 
-- [Configuration](#configuration)
-    - [Emacs version](#emacs-version) 
