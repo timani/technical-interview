@@ -1,4 +1,4 @@
-# Customer Suppoer - Technical interview
+# Customer Support - Technical interview
 
 #### 1. Project Objectives
 
