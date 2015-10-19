@@ -2,12 +2,7 @@
 
 #### 1. Project Objectives
 
-Students will walk away with a solid understanding of how to implement a Continuous
-Integration (CI) environment with Jenkins, including:
-Setting up an instance of a Jenkins server, complete with automated builds, tests
-Learning administration of Jenkins instances, such as scripted maintenance and security 
-Integrating Jenkins with other tools in the development environment, such as
-issue tracking systems and source code browsers
+De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby.
 
 #### 2. Audience
 - Customer Support Engineers
