@@ -1,2 +1,2 @@
-# technical-interview
+# Customer Suppoer - Technical interview
 CS Technical Interview
