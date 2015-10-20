@@ -33,13 +33,13 @@ The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus.
 
 - **Bug**: In order to perform nginx access log analysis with goaccess locally the logger will require
     the program to be installed.
- - **Duplicate**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+- **Duplicate**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.
- - **Help wanted**: The basic Docker installation will include all of the requirements to 
+- **Help wanted**: The basic Docker installation will include all of the requirements to 
    install and run the Logger.
- - **Optional**: The more adavanced Docker installation which includes Jenkins that provides
+- **Optional**: The more adavanced Docker installation which includes Jenkins that provides
    a UI to run and manage jobs. 
- - **Requred**: The more adavanced Docker installation which includes Jenkins that provides
+- **Requred**: The more adavanced Docker installation which includes Jenkins that provides
    a UI to run and manage jobs.
 
 ### Getting Help
