@@ -29,7 +29,7 @@ Once you have logged into the server, you will need to install a set of dependen
 
 - **Apache/Nginx**: In order to perform nginx access log analysis with goaccess locally the logger will require
     the program to be installed.
-- **MySQL**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+- **MySQL/MariaDB**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.alysis with goaccess locally the logger will require
     the program to be installed.
 - **PHP**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
