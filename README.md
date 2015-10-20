@@ -2,7 +2,11 @@
 
 #### 1. Project Objectives
 
-De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby.
+The goal of the technical test is to install and configure an running Drupal or WordPress site. In this excersice a virtual machine only the base operating system will be installed. 
+
+The programs and services required can be installed using any means, this includes, manually installing the dependencies, using a bash script, a configuration manager system like Ansible, Capistrano, Chef, Puppet or Saltstack. 
+
+The purpose is see the thought process and techniques used to install the Drupal or WordPress.
 
 #### 2. Audience
 - Customer Support Engineers
@@ -11,7 +15,7 @@ De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel
 
 #### 3. Overview
 
-Such as scripted maintenance and security Integrating Jenkins with other tools in the development environment, such as issue tracking systems and source code browsers
+The instructions for the project are available within the current repository and the tasks that need to be completed can be found on the Github issues for the repository. 
 
 **Table of Contents**
  
