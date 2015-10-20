@@ -45,13 +45,13 @@ Once you have logged into the server, you will need to install a set of dependen
 
 There are a set of configuration and infrstrature tests that will be run to see the progress within the tasks. Ideally all the tests pass but this should not the focus as we are more interested in the process of working through the assigned issues. 
 
-[Milestone #3 Issues >>](/issues) 
+[Milestone #3 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%203%20-%20Tests%20and%20verification) 
 
 #### Github Issues
 
 Each milestone consists of a set of issues. The issues can be completed in any order as long as the full project is complete.
 
-[View all Issues >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
+[View all Issues >>](https://github.com/timani/technical-interview/issues) 
 
 #### Labels
 
