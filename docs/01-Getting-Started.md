@@ -13,16 +13,36 @@ The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi t
 
 ##### Objective 1 - User Account Setup
 
-Standard SFTP CLI access is required to use the Logger and the program will need to be installed.
- 
+Before you can access the virtual machine to start the project, a user account will need to be setup and a public key added. This can be done by using a public key that can be uploaded to you Pantheon Account.   
+
+Once the Pantheon account has been created and the SSH public key, it will be uploaded to the server for the project and you will be given an I.P. address and login information.
+
+View Issues >>
+
 ##### Objective 2 - Drupal/WordPress Installation
 
-Standard SFTP CLI access is required to use the Logger and the program will need to be installed.
- 
+Once you have logged into the server, you will need to install a set of dependencies. 
+
+- **Apache/Nginx**: In order to perform nginx access log analysis with goaccess locally the logger will require
+    the program to be installed.
+- **MySQL**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+   will require the Percona Toolkit to be installed.alysis with goaccess locally the logger will require
+    the program to be installed.
+- **PHP**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+   will require the Percona Toolkit to be installed.
+- **Redis**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+   will require the Percona Toolkit to be installed.
+- **Varnish**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+   will require the Percona Toolkit to be installed.
+
+View Issues >>
+
 ##### Objective 3 - Tests and verification
 
 Standard SFTP CLI access is required to use the Logger and the program will need to be installed.
  
+View Issues >>
+
 #### Github Issues
 
 Each milestone consists of a set of issues. The issues can be completed in any order as long as the full project is complete.
@@ -46,4 +66,5 @@ The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus.
 
 If you have any questions, the issue place is the best avenue to communitcate.
 
+Start Objective #1 >>
 
