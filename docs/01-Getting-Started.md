@@ -21,7 +21,7 @@ Before you can access the virtual machine to start the project, a user account w
 
 Once the Pantheon account has been created and the SSH public key, it will be uploaded to the server for the project and you will be given an I.P. address and login information.
 
-[View Issues >>](https://github.com/timani/technical-interview/milestones/Objective%201%20-%20User%20Account%20Setup) 
+[Milestone #1 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%201%20-%20User%20Account%20Setup) 
 
 ##### #2 - Drupal/WordPress Installation
 
@@ -39,13 +39,13 @@ Once you have logged into the server, you will need to install a set of dependen
 - **Varnish**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.
 
-[View Issues >>](https://github.com/timani/technical-interview/milestones/Objective%203%20-%20Tests%20and%20verification) 
+[Milestone #2 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%203%20-%20Tests%20and%20verification) 
 
 ##### #3 - Tests and verification
 
 Standard SFTP CLI access is required to use the Logger and the program will need to be installed.
  
-[View Issues >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
+[Milestone #3 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
 
 #### Github Issues
 
@@ -70,7 +70,4 @@ The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus.
 
 If you have any questions, the issue place is the best avenue to communitcate.
 
-[Start Objective #1 >>]
-
-[Start Objective #1 >>]: https://godoc.org/k8s.io/kubernetes
-[Objective #2]: https://godoc.org/k8s.io/kubernetes?status.png 
+[View FAQ >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
