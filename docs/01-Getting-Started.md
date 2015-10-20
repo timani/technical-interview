@@ -11,9 +11,9 @@ Each technical requirement to complete the project are in the Github issues queu
 
 The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. 
 
-- [Objective 1 - User Account Setup](/#)
-- [Objective 2 - Drupal/WordPress Installation](/#) 
-- [Objective 3 - Tests and verification](/#)
+- [Objective 1 - User Account Setup](/docs/01-Getting-Started.md#)
+- [Objective 2 - Drupal/WordPress Installation](/docs/01-Getting-Started.md#) 
+- [Objective 3 - Tests and verification](/docs/01-Getting-Started.md#)
 
 ##### Objective 1 - User Account Setup
 
