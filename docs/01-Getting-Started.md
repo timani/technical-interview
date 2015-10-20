@@ -43,13 +43,15 @@ Once you have logged into the server, you will need to install a set of dependen
 
 ##### #3 - Tests and verification
 
-Standard SFTP CLI access is required to use the Logger and the program will need to be installed.
- 
-[Milestone #3 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
+There are a set of configuration and infrstrature tests that will be run to see the progress within the tasks. Ideally all the tests pass but this should not the focus as we are more interested in the process of working through the assigned issues. 
+
+[Milestone #3 Issues >>](/issues) 
 
 #### Github Issues
 
 Each milestone consists of a set of issues. The issues can be completed in any order as long as the full project is complete.
+
+[View all Issues >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
 
 #### Labels
 
@@ -70,4 +72,3 @@ The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus.
 
 If you have any questions, the issue place is the best avenue to communitcate.
 
-[View FAQ >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
