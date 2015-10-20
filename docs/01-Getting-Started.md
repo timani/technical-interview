@@ -32,7 +32,7 @@ Once you have logged into the server, you will need to install a set of dependen
 - **MySQL/MariaDB**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.alysis with goaccess locally the logger will require
     the program to be installed.
-- **PHP**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+- **PHP/PHP-FPM**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.
 - **Redis**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.
