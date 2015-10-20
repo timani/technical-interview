@@ -78,42 +78,4 @@ describe 'PHP session configuration' do
 
 end
 
-=begin
-php -r 'print_r(ini_get_all(null, false));'
-
-describe 'PHP MySQL configuration' do
-
-[mysql.allow_local_infile] => 1
-  [mysql.allow_persistent] => 1
-  [mysql.connect_timeout] => 60
-  [mysql.default_host] =>
-  [mysql.default_password] =>
-  [mysql.default_port] =>
-  [mysql.default_socket] => /var/lib/mysql/mysql.sock
-  [mysql.default_user] =>
-  [mysql.max_links] => -1
-  [mysql.max_persistent] => -1
-  [mysql.trace_mode] =>
-  [mysqli.allow_local_infile] => 1
-  [mysqli.allow_persistent] => 1
-  [mysqli.default_host] =>
-  [mysqli.default_port] => 3306
-  [mysqli.default_pw] =>
-  [mysqli.default_socket] => /var/lib/mysql/mysql.sock
-  [mysqli.default_user] =>
-  [mysqli.max_links] => -1
-  [mysqli.max_persistent] => -1
-  [mysqli.reconnect] =>
-  [mysqli.rollback_on_cached_plink] => 0
-  [mysqlnd.collect_memory_statistics] =>
-  [mysqlnd.collect_statistics] => 1
-  [mysqlnd.debug] =>
-  [mysqlnd.fetch_data_copy] => 0
-  [mysqlnd.log_mask] => 0
-  [mysqlnd.mempool_default_size] => 16000
-  [mysqlnd.net_cmd_buffer_size] => 4096
-  [mysqlnd.net_read_buffer_size] => 32768
-  [mysqlnd.net_read_timeout] => 31536000
-  [mysqlnd.sha256_server_public_key] =>
-  [mysqlnd.trace_alloc] =>
-=end
+ 
