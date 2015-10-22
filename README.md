@@ -4,7 +4,7 @@
 
 The goal of the technical test is to install and configure an running Drupal or WordPress site. In this excersice a virtual machine only the base operating system will be installed. 
 
-The programs and services required can be installed on the provided VM using any means. This includes, manually installing the dependencies, using a bash script, a configuration manager system like Ansible, Capistrano, Chef, Puppet or Saltstack. 
+The programs and services required can be installed on the provided VM using any means. This includes, manually installing the dependencies, using a bash script, Docker, a configuration management system like Ansible, Capistrano, Chef, Puppet or Saltstack. 
 
 The purpose is see the thought process and techniques used to install the Drupal or WordPress.
 
