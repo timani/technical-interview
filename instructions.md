@@ -1,6 +1,6 @@
 ### Overview
 
-In order to get started you should start by forking the repository. 
+All work and progress for the technical interview should be completed as issues on this Github project. 
  
 ### Milestones
 
