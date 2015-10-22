@@ -1,6 +1,6 @@
 ### Overview
 
-In order to get started you can start by cloning the repository. 
+In order to get started you should start by forking the repository. 
 
 ### Tasks
 
