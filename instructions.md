@@ -52,18 +52,12 @@ The issues can be completed in any order as long as the full project is complete
 
 #### Labels
 
-The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. 
+There are a set of labels that are available for us in this project 
 
-- **Bug**: In order to perform nginx access log analysis with goaccess locally the logger will require
-    the program to be installed.
-- **Duplicate**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
-   will require the Percona Toolkit to be installed.
-- **Help wanted**: The basic Docker installation will include all of the requirements to 
-   install and run the Logger.
-- **Optional**: The more adavanced Docker installation which includes Jenkins that provides
-   a UI to run and manage jobs. 
-- **Requred**: The more adavanced Docker installation which includes Jenkins that provides
-   a UI to run and manage jobs.
+- **Bug**: Report an issue with the configuration of the server. Should be rare as these are stock VM images but issues can be tagged if any are found. 
+- **Help wanted**: For any problems or general questions, create a new issue and assign this tag. An Engineer will assist with any questions you may have.
+- **Optional**: Some tasks like configuring Redis are optional. If you do not wish to complete the task or do not have enough time, this can be left as it is.  
+- **Requred**: All tasks that are labelled with the required must be attempted. If the issue can not be completed, please leave any comments on the issue as your work through the project. 
 
 ### Getting Help
 
