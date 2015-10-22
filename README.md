@@ -17,4 +17,4 @@ The purpose is see the thought process and techniques used to install the Drupal
 
 The instructions for the project are available within the current repository and the tasks that need to be completed can be found on the Github issues for the repository. 
   
-- [Getting Started >>](/instructions.md#)  
+[Getting Started >>](/instructions.md#)  
