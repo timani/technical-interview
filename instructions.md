@@ -9,7 +9,7 @@ Each technical requirement to complete the project are in the Github issues queu
 
 ### Milestones
 
-The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. 
+The tasks for the techinical interview are broken down into three milestones: 
 
 - [#1 - User Account Setup](/instructions.md#1---user-account-setup)
 - [#2 - Drupal/WordPress Installation](/instructions.md#2---drupalwordpress-installation) 
