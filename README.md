@@ -13,19 +13,8 @@ The purpose is see the thought process and techniques used to install the Drupal
 - Customer Support Managers
 - Enterprise Onboarding Managers
 
-#### 3. Overview
+#### 3. Getting started
 
 The instructions for the project are available within the current repository and the tasks that need to be completed can be found on the Github issues for the repository. 
-
-**Table of Contents**
- 
-- [Getting Started](/instructions.md#)
-- [Requirements](/instructions.md#)
-  - [Pantheon Account](/instructions.md#)
-  - [Public Key](/instructions.md#)
-  - [Configuration](/instructions.md#)
-      - [Operating Systems](/instructions.md#) 
-      - [Server Specifications](/instructions.md#) 
-- [Tests](/instructions.md#)
-    - [Infrastructure Tests](/instructions.md#)
-    - [Functional Tests](/instructions.md#) 
+  
+- [Getting Started >>](/instructions.md#)  
