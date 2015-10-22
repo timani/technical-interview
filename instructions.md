@@ -1,6 +1,6 @@
 ### Overview
 
-All work and progress for the technical interview should be completed as issues on this Github project. 
+All work and progress for the technical interview should be completed as issues on this Github project. The goal is to have a fully functioning site. No themeing, styling or additional configuration is needed beyond what is in the assigned tasks. 
  
 ### Milestones
 
@@ -22,16 +22,12 @@ Once the Pantheon account has been created and the SSH public key, it will be up
 
 Once you have logged into the server, you will need to install a set of dependencies. 
 
-- **Apache/Nginx**: In order to perform nginx access log analysis with goaccess locally the logger will require
-    the program to be installed.
-- **MySQL/MariaDB**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
-   will require the Percona Toolkit to be installed.alysis with goaccess locally the logger will require
-    the program to be installed.
-- **PHP/PHP-FPM**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+- **Apache/Nginx**: Install and configure your choice of web server. Complete the issue relevant to the web server that you are installing. For example, if you choose Apache, leave the Nginx issue. 
+- **MySQL/MariaDB**: Install and configure MySQL or MariaDB as the database for the project.
+- **PHP/PHP-FPM**: Install and configure PHP or PHP-FPM with required modules. The additional modules just need to be installed.
+- **Redis/Memcached/Elastic Search/Mongo**_(Optional)_: Install and configure an in-memory solution as for the cache API of the project
    will require the Percona Toolkit to be installed.
-- **Redis**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
-   will require the Percona Toolkit to be installed.
-- **Varnish**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
+- **Varnish** _(Optional)_: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.
 
 [Milestone #2 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
