@@ -1,12 +1,7 @@
 ### Overview
 
 In order to get started you should start by forking the repository. 
-
-### Tasks
-
-Each technical requirement to complete the project are in the Github issues queue. To complete an each, the checkbox on the settings, configuration or variable can be checked. 
-
-
+ 
 ### Milestones
 
 The tasks for the techinical interview are broken down into three milestones: 
@@ -49,7 +44,9 @@ There are a set of configuration and infrstrature tests that will be run to see 
 
 #### Github Issues
 
-Each milestone consists of a set of issues. The issues can be completed in any order as long as the full project is complete.
+Each technical requirement to complete the project are in the Github issues queue. To complete an each, the checkbox on the settings, configuration or variable can be checked. 
+
+The issues can be completed in any order as long as the full project is complete.
 
 [View all Issues >>](https://github.com/timani/technical-interview/issues) 
 
