@@ -16,6 +16,8 @@ Before you can access the virtual machine to start the project, a user account w
 
 Once the Pantheon account has been created and the SSH public key, it will be uploaded to the server for the project and you will be given an I.P. address and login information.
 
+The user created will have root permissions on the Virtual Machine and you can install, update and remove system packages as you need. 
+
 [Milestone #1 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%201%20-%20User%20Account%20Setup) 
 
 ##### #2 - Drupal/WordPress Installation
