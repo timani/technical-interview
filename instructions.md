@@ -34,7 +34,7 @@ Once you have logged into the server, you will need to install a set of dependen
 - **Varnish**: In order to use the Percona toolkit MySQL query digest without Docker or Vagrant
    will require the Percona Toolkit to be installed.
 
-[Milestone #2 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%203%20-%20Tests%20and%20verification) 
+[Milestone #2 Issues >>](https://github.com/timani/technical-interview/milestones/Objective%202%20-%20Drupal/WordPress%20Installation) 
 
 ##### #3 - Tests and verification
 
